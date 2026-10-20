@@ -76,3 +76,7 @@ candidate counting to avoid row duplication), `merge_asof` (`by=`, `direction="b
 
 Built with [Claude Code](https://claude.com/claude-code) as an AI pair programmer; every rule
 is covered by a test.
+
+---
+
+Author: [Williams Villavizar](https://wilrd14.dev), web and Python developer in Santo Domingo, Dominican Republic. [Portfolio](https://wilrd14.dev).
